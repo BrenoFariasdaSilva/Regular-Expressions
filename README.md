@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Repository-Name.](Repository-URL) <img src="Icon-Image-URL"  width="3%" height="3%">
+# [Regular-Expressions.](Repository-URL) <img src="Icon-Image-URL"  width="3%" height="3%">
 
 </div>
 
@@ -16,10 +16,10 @@ Project-Description.
 
 <div align="center">
 
-![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Repository-Name)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Repository-Name)
-![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Repository-Name)
-![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Repository-Name.svg)
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Regular-Expressions)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Regular-Expressions)
+![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Regular-Expressions)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Regular-Expressions.svg)
 
 </div>
 
@@ -30,7 +30,7 @@ Project-Description.
 </div>
 
 ## Table of Contents
-- [Repository-Name. ](#repository-name-)
+- [Regular-Expressions. ](#regular-expressions-)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Requirements](#requirements)
@@ -61,8 +61,8 @@ Bullet points of the requirements.
 1. Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/BrenoFariasdaSilva/Repository-Name.git
-cd Repository-Name
+git clone https://github.com/BrenoFariasdaSilva/Regular-Expressions.git
+cd Regular-Expressions
 ```
 
 ### Dependencies
@@ -73,7 +73,7 @@ make dependencies
 ```
 
 ### Dataset - Optional
-1. Download the dataset from [WEBSITE-HERE]() and place it in this project directory `(/Repository-Name)` and run the following command:
+1. Download the dataset from [WEBSITE-HERE]() and place it in this project directory `(/Regular-Expressions)` and run the following command:
 
 ```bash
 make dataset
