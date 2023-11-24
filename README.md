@@ -8,7 +8,9 @@
   
 ---
 
-Project-Description.
+Welcome to my collection of commonly used regular expressions! This repository is a handy resource for developers and anyone dealing with text pattern matching. Regular expressions (regex) are powerful tools for string manipulation and validation.
+This repository contains a collection of regular expressions I have found useful. I hope you find them useful too!
+
   
 ---
 
