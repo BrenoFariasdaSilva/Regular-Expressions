@@ -27,7 +27,7 @@ This repository contains a collection of regular expressions I have found useful
 
 <div align="center">
   
-![RepoBeats Statistics](RepoBeats-SVG-URL "Repobeats analytics image")
+![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/682d293532f9df756a1a65514d8043fa551b454e.svg "Repobeats analytics image")
 
 </div>
 
