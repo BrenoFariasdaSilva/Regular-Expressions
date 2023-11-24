@@ -36,6 +36,19 @@ This repository contains a collection of regular expressions I have found useful
   - [Introduction](#introduction)
   - [Setup](#setup)
     - [Clone the repository](#clone-the-repository)
+  - [Contents](#contents)
+    - [1. Email Address](#1-email-address)
+    - [2. URL (HTTP/HTTPS)](#2-url-httphttps)
+    - [3. Date (DD/MM/YYYY) Format](#3-date-ddmmyyyy-format)
+    - [4. Username](#4-username)
+    - [5. Password Strength](#5-password-strength)
+    - [6. CPF (Brazil)](#6-cpf-brazil)
+    - [7. Zip Code (Brazil)](#7-zip-code-brazil)
+    - [8. Phone Number (Brazil)](#8-phone-number-brazil)
+    - [9. SQL Injection](#9-sql-injection)
+    - [10. IPv4 Address](#10-ipv4-address)
+    - [11. IPv6 Address](#11-ipv6-address)
+    - [12. Comments with Double Spaces](#12-comments-with-double-spaces)
   - [Contributing](#contributing)
   - [License](#license)
     - [Creative Commons Zero v1.0 Universal](#creative-commons-zero-v10-universal)
@@ -54,6 +67,114 @@ The primary purpose of this repository is to provide a curated list of regular e
 git clone https://github.com/BrenoFariasdaSilva/Regular-Expressions.git
 cd Regular-Expressions
 ```
+
+## Contents
+
+### 1. Email Address
+
+A regex for validating email addresses, checking for the basic structure of an email, including '@' and domain extensions.
+
+  ```regex
+  ^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$
+  ```
+
+### 2. URL (HTTP/HTTPS)
+
+Validate URLs with this regex, checking for the basic structure, including the protocol, domain name, and optional path.
+
+  ```regex
+  ^(http|https):\/\/[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[a-zA-Z0-9%_.-]+\/?)*$
+  ```
+
+### 3. Date (DD/MM/YYYY) Format
+
+This regex validates dates in the format DD/MM/YYYY, checking for leap years and the correct number of days in each month.
+
+  ```regex
+  ^(0[1-9]|[12][0-9]|3[01])\/(0[1-9]|1[0-2])\/(19|20)\d{2}$
+  ```
+
+### 4. Username
+
+This regex validates usernames with the following criteria:
+
+- Minimum 3 characters
+- Maximum 16 characters
+- Only letters, numbers, underscores and hyphens
+
+  ```regex
+  ^[a-zA-Z0-9_-]{3,16}$
+  ```
+
+### 5. Password Strength
+
+This regex validates passwords with the following criteria:
+
+- Minimum 8 characters
+- At least one uppercase letter
+- One lowercase letter
+- One number
+- One special character
+
+  ```regex
+  ^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$
+  ```
+
+### 6. CPF (Brazil)
+
+This regex validates Brazilian CPFs, checking for the correct number of digits and the correct check digits.
+
+  ```regex
+  ^\d{3}\.\d{3}\.\d{3}-\d{2}$
+  ```
+
+### 7. Zip Code (Brazil)
+
+This regex validates Brazilian zip codes, checking for the correct number of digits.
+
+  ```regex
+  ^\d{5}-\d{3}$
+  ```
+
+### 8. Phone Number (Brazil)
+
+This regex validates Brazilian phone numbers, checking for the correct number of digits and the correct area code.
+
+  ```regex
+  ^\(\d{2}\) \d{4,5}-\d{4}$
+  ```
+
+### 9. SQL Injection
+
+This regex helps identify SQL injection attempts, checking for the most common SQL injection keywords.
+
+  ```regex
+  (\b(?:SELECT|INSERT|UPDATE|DELETE|DROP|CREATE|ALTER)\b|\b(?:UNION|JOIN|WHERE|FROM)\b|\b(?:AND|OR|NOT)\b)
+  ```
+
+### 10. IPv4 Address
+
+This regex validates IPv4 addresses, checking for the correct number of octets and the correct range of numbers in each octet.
+
+  ```regex
+  ^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$
+  ```
+
+### 11. IPv6 Address
+
+This regex validates IPv6 addresses, checking for the correct number of hextets and the correct range of numbers and letters in each hextet.
+
+  ```regex
+  ^(?:[0-9a-fA-F]{1,4}:){7}[0-9a-fA-F]{1,4}$
+  ```
+
+### 12. Comments with Double Spaces
+
+This regex helps identify comments in a file with double spaces after the comment character, ensuring proper formatting.
+
+  ```regex
+  \S[ ]{2}#
+  ```
 
 ## Contributing
 
