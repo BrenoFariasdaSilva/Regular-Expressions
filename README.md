@@ -98,9 +98,9 @@ This regex validates dates in the format DD/MM/YYYY, checking for leap years and
 
 This regex validates usernames with the following criteria:
 
-- Minimum 3 characters
-- Maximum 16 characters
-- Only letters, numbers, underscores and hyphens
+- Minimum 3 characters.
+- Maximum 16 characters.
+- Only letters, numbers, underscores and hyphens.
 
   ```regex
   ^[a-zA-Z0-9_-]{3,16}$
@@ -110,11 +110,11 @@ This regex validates usernames with the following criteria:
 
 This regex validates passwords with the following criteria:
 
-- Minimum 8 characters
-- At least one uppercase letter
-- One lowercase letter
-- One number
-- One special character
+- Minimum 8 characters.
+- At least one uppercase letter.
+- One lowercase letter.
+- One number.
+- One special character.
 
   ```regex
   ^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$
