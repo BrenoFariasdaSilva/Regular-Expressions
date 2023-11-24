@@ -18,10 +18,10 @@ This repository contains a collection of regular expressions I have found useful
 
 <div align="center">
 
-![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Regular-Expressions)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Regular-Expressions)
-![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Regular-Expressions)
-![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Regular-Expressions.svg)
+![GitHub Code Size in Bytes Badge](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Regular-Expressions)
+![GitHub Last Commit Badge](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Regular-Expressions)
+![GitHub License Badge](https://img.shields.io/github/license/BrenoFariasdaSilva/Regular-Expressions)
+![Wakatime Badge](https://wakatime.com/badge/github/BrenoFariasdaSilva/Regular-Expressions.svg)
 
 </div>
 
