@@ -36,11 +36,9 @@ This repository contains a collection of regular expressions I have found useful
   - [Introduction](#introduction)
   - [Setup](#setup)
     - [Clone the repository](#clone-the-repository)
-  - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
     - [Creative Commons Zero v1.0 Universal](#creative-commons-zero-v10-universal)
-
 
 ## Introduction
 
@@ -57,11 +55,9 @@ git clone https://github.com/BrenoFariasdaSilva/Regular-Expressions.git
 cd Regular-Expressions
 ```
 
-## Usage
-
 ## Contributing
 
-Code improvement recommendations are very welcome. In order to contribute, follow the steps below:
+If you have any suggestions, feel free to create an issue or pull request. Contributions are always welcome! For more information.
 
 ## License
 
