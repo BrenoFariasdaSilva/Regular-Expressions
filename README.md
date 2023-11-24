@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Regular-Expressions.](Repository-URL) <img src="Icon-Image-URL"  width="3%" height="3%">
+# [Regular-Expressions.](https://github.com/BrenoFariasdaSilva/Regular-Expressions) <img src="https://github.com/BrenoFariasdaSilva/Regular-Expressions/blob/main/.assets/Bash.svg"  width="3%" height="3%">
 
 </div>
 
