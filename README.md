@@ -27,7 +27,6 @@ This repository contains a collection of regular expressions I have found useful
 [![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/stargazers)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions)
 [![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/issues?q=is%3Aissue+is%3Aclosed)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/pulls)
