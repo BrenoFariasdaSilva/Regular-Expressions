@@ -21,15 +21,6 @@ This repository contains a collection of regular expressions I have found useful
 ![GitHub Last Commit Badge](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Regular-Expressions)
 ![GitHub License Badge](https://img.shields.io/github/license/BrenoFariasdaSilva/Regular-Expressions)
 ![Wakatime Badge](https://wakatime.com/badge/github/BrenoFariasdaSilva/Regular-Expressions.svg)
-
-</div>
-
-<div align="center">
-
-![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Regular-Expressions)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Regular-Expressions)
-![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Regular-Expressions)
-![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Regular-Expressions.svg)
 [![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Regular-Expressions/main)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/commits/main)
 [![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/network/members)
 ![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Regular-Expressions)
@@ -43,7 +34,6 @@ This repository contains a collection of regular expressions I have found useful
 [![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/pulls?q=is%3Apr+is%3Aclosed)
 [![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Regular-Expressions/main)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/commits)
 [![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Regular-Expressions?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/pulls?q=is%3Apr+is%3Amerged)
-
 ![Repobeats Statistics](https://repobeats.axiom.co/api/embed/682d293532f9df756a1a65514d8043fa551b454e.svg)
 
 </div>
