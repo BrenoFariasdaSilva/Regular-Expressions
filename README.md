@@ -25,10 +25,29 @@ This repository contains a collection of regular expressions I have found useful
 </div>
 
 <div align="center">
-  
-![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/682d293532f9df756a1a65514d8043fa551b454e.svg "Repobeats analytics image")
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Regular-Expressions)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Regular-Expressions)
+![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Regular-Expressions)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Regular-Expressions.svg)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Regular-Expressions/main)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/commits/main)
+[![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/network/members)
+![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Regular-Expressions)
+[![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/stargazers)
+[![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/graphs/contributors)
+[![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions)
+[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions)
+[![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/issues?q=is%3Aissue+is%3Aclosed)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/pulls)
+[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BrenoFariasdaSilva/Regular-Expressions)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/pulls?q=is%3Apr+is%3Aclosed)
+[![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Regular-Expressions/main)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/commits)
+[![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Regular-Expressions?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Regular-Expressions/pulls?q=is%3Apr+is%3Amerged)
+
+![Repobeats Statistics](https://repobeats.axiom.co/api/embed/682d293532f9df756a1a65514d8043fa551b454e.svg)
 
 </div>
+
 
 ## Table of Contents
 - [Regular-Expressions. ](#regular-expressions-)
